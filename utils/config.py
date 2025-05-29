@@ -1,4 +1,4 @@
-﻿URL = "https://gadus.xyz/api/index.php/waitlist_signupp"
+﻿URL = "https://gadus.xyz/api/index.php/waitlist_sign_up"
 
 def HEADERS(referral_code):
     return {
